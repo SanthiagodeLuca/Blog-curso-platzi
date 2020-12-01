@@ -1,7 +1,7 @@
 Un archivo tipo texto 
 
 
-Esta es una prueba de git para entender mejor el frontend
+Esta es una prueba de git para entender mejor el frontend,joven saso
 
 
 un paso pequeño para grandes cosas
