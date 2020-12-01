@@ -1,0 +1,7 @@
+Un archivo tipo texto 
+
+
+Esta es una prueba de git para entender mejor el frontend
+
+
+un paso pequeño para grandes cosas
