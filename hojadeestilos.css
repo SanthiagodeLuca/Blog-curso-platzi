@@ -2,3 +2,8 @@ body {
   color: deeppink;
   text-align: center;
 }
+#header {
+  background-color: deeppink;
+  border-top: dodgerblue;
+  text-align: center;
+}
